@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753298492409",
+    "project_id": "codingmindflutter",
+    "storage_bucket": "codingmindflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753298492409:android:67e48e63753862eb964b28",
+        "android_client_info": {
+          "package_name": "coding.mind.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChgvjVIKPQ8mo_QiSlTj1RBHTwUdeI8b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753298492409:android:ccb21874f59742b4964b28",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChgvjVIKPQ8mo_QiSlTj1RBHTwUdeI8b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
